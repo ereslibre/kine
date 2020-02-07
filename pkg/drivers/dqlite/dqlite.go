@@ -15,8 +15,8 @@ import (
 	"github.com/canonical/go-dqlite/client"
 	"github.com/canonical/go-dqlite/driver"
 	"github.com/pkg/errors"
-	"github.com/rancher/kine/pkg/drivers/sqlite"
-	"github.com/rancher/kine/pkg/server"
+	"github.com/oneinfra/kine/pkg/drivers/sqlite"
+	"github.com/oneinfra/kine/pkg/server"
 	"github.com/sirupsen/logrus"
 )
 

@@ -6,11 +6,11 @@ import (
 	"database/sql"
 
 	"github.com/go-sql-driver/mysql"
-	"github.com/rancher/kine/pkg/drivers/generic"
-	"github.com/rancher/kine/pkg/logstructured"
-	"github.com/rancher/kine/pkg/logstructured/sqllog"
-	"github.com/rancher/kine/pkg/server"
-	"github.com/rancher/kine/pkg/tls"
+	"github.com/oneinfra/kine/pkg/drivers/generic"
+	"github.com/oneinfra/kine/pkg/logstructured"
+	"github.com/oneinfra/kine/pkg/logstructured/sqllog"
+	"github.com/oneinfra/kine/pkg/server"
+	"github.com/oneinfra/kine/pkg/tls"
 )
 
 const (

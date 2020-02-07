@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/rancher/kine/pkg/server"
+	"github.com/oneinfra/kine/pkg/server"
 )
 
 func New(ctx context.Context, datasourceName string) (server.Backend, error) {

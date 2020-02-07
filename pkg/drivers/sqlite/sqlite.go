@@ -10,10 +10,10 @@ import (
 
 	"github.com/mattn/go-sqlite3"
 	"github.com/pkg/errors"
-	"github.com/rancher/kine/pkg/drivers/generic"
-	"github.com/rancher/kine/pkg/logstructured"
-	"github.com/rancher/kine/pkg/logstructured/sqllog"
-	"github.com/rancher/kine/pkg/server"
+	"github.com/oneinfra/kine/pkg/drivers/generic"
+	"github.com/oneinfra/kine/pkg/logstructured"
+	"github.com/oneinfra/kine/pkg/logstructured/sqllog"
+	"github.com/oneinfra/kine/pkg/server"
 	"github.com/sirupsen/logrus"
 
 	// sqlite db driver

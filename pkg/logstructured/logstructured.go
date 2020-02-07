@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rancher/kine/pkg/server"
+	"github.com/oneinfra/kine/pkg/server"
 	"github.com/sirupsen/logrus"
 )
 
